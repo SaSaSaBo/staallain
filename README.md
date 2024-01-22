@@ -7,6 +7,8 @@ app>docs>[[...postl]]: linkler arası geçiş.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Write to terminal: npx create-next-app@latest
+
 
 ## Getting Started
 
