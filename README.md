@@ -1,3 +1,12 @@
+app>layout.js:
+bu kısımda <head><title/></head> ve <body/> kısmını kontrol ediyoruz.
+app>page.js:
+tabbbar kısmını kontrol edyoruz.
+app>docs>[[...postl]]:
+linkler arası geçiş.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
