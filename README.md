@@ -1,8 +1,13 @@
 app>layout.js:
+
 bu kısımda <head><title/></head> ve <body/> kısmını kontrol ediyoruz.
+
 app>page.js:
+
 tabbbar kısmını kontrol edyoruz.
+
 app>docs>[[...postl]]:
+
 linkler arası geçiş.
 
 
