@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
               <br/>
               <Link href='/docs/XH'>XH</Link>
               <br/>
-              <Link href='/docs/SKZ/XH'>BOTH</Link>
+              <Link href='/docs/SKZ/-XH'>BOTH</Link>
             </ul>
           </div>
         </section>
